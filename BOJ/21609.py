@@ -1,6 +1,6 @@
 # 꼭 문제를 잘 읽자..
 import sys
-sys.stdin = open('input.txt', 'r')
+sys.stdin = open('../input.txt', 'r')
 from collections import deque
 
 N, M = map(int, input().split())
