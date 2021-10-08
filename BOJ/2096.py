@@ -1,7 +1,6 @@
 import sys
 sys.stdin = open('../input.txt', 'r')
 from queue import PriorityQueue
-import copy
 
 N = int(input())
 # arr_map = [list(map(int, input().split())) for _ in range(N)]
