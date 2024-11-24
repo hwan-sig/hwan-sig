@@ -1,4 +1,4 @@
-# Code Base for our works
+# Codebase for Our Projects
 
 [Rethinking the Flat Minima Searching in Federated Learning](https://github.com/hwan-sig/Official-FedGF)
 
